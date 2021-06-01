@@ -209,46 +209,26 @@ const DATA = {
                 ]
             },
             "בטיחות באש": {
-                "תת תת נושא 25": [
+                "חסר שקופית 12": [
                     {
-                        cardType: "videoAndText",
-                        video: "../assets/images/פתיח.mp4",
-                        content: "סרטון מוסר שלא הבנתי למה הוא היה על המחשב של פלג... פטל.. שלג?"
-                    }
-                ],
-                "תת תת נושא 42": [
-                    {
-                        cardType: "text",
-                        content: "מלא מילים של נושא ספיציפי, שנראה לי שייצא יפה אבל בואו נגלה יחדיו!"
+                        cardType: "video",
+                        video: "../assets/images/videos&photos/vid4.mp4",
                     }
                 ]
             },
             "הגנת הסביבה": {
-                "תת תת נושא 12": [
+                "חסר שקופית 14": [
                     {
-                        cardType: "videoAndText",
-                        video: "../assets/images/פתיח.mp4",
-                        content: "סרטון מוסר שלא הבנתי למה הוא היה על המחשב של פלג... פטל.. שלג?"
+                        cardType: "video",
+                        video: "../assets/images/videos&photos/vid5.mp4",
                     }
-                ],
-                // "תת תת נושא 23": [
-                //     {
-                //         cardType: "twoPics",
-                //         pic1: "../assets/images/Artboard 1 copy 2@2x.png",
-                //         content1: "זה דוגמה לתמונה מוצלחת ראשונה",
-                //         // subTitle1: "זה דוגמה לתמונה מוצלחת ראשונה",
-                //         pic2: "../assets/images/Artboard 1 copy 2@2x.png",
-                //         content2: "זה דוגמה לתמונה מוצלחת שנייה"
-                //         // subTitle2: "זה דוגמה לתמונה מוצלחת שנייה"
-                //     }
-                // ]
+                ]
             },
             "טלטול והרמה": {
-                "תת תת נושא 12": [
+                "חסר שקופית 16": [
                     {
-                        cardType: "videoAndText",
-                        video: "../assets/images/פתיח.mp4",
-                        content: "סרטון מוסר שלא הבנתי למה הוא היה על המחשב של פלג... פטל.. שלג?"
+                        cardType: "video",
+                        video: "../assets/images/videos&photos/vid6.mp4",
                     }
                 ],
                 "תת תת נושא 23": [
@@ -268,25 +248,13 @@ const DATA = {
                     }
                 ]
             },
-            "בטיחות בחשמל": {
-                "תת תת נושא 12": [
+            "בטיחות בחשמל": {       
+                "חסר שקופית 18": [
                     {
-                        cardType: "videoAndText",
-                        video: "../assets/images/פתיח.mp4",
-                        content: "סרטון מוסר שלא הבנתי למה הוא היה על המחשב של פלג... פטל.. שלג?"
+                        cardType: "video",
+                        video: "../assets/images/videos&photos/vid7.mp4",
                     }
-                ],
-                // "תת תת נושא 23": [
-                //     {
-                //         cardType: "twoPics",
-                //         pic1: "../assets/images/Artboard 1 copy 2@2x.png",
-                //         content1: "זה דוגמה לתמונה מוצלחת ראשונה",
-                //         // subTitle1: "זה דוגמה לתמונה מוצלחת ראשונה",
-                //         pic2: "../assets/images/Artboard 1 copy 2@2x.png",
-                //         content2: "זה דוגמה לתמונה מוצלחת שנייה"
-                //         // subTitle2: "זה דוגמה לתמונה מוצלחת שנייה"
-                //     }
-                // ]
+                ]
             }
         },
     },
