@@ -156,10 +156,6 @@ function learningSubjectsPage() {
         createStudyCards(subject);
     }
 
-    document.querySelector(".page.learning.subjects .practice-btn").addEventListener("click", beforePractice);
-
-    document.querySelector(".page.learning.subjects .exam-btn").addEventListener("click", beforeExam);
-
 }
 
 // יצירת קלפים ללמידה
@@ -184,7 +180,6 @@ function beforePractice() {
     document.querySelector(".page.learning.subjects .sub-title").style.filter = `blur(${blurAmount})`;
     document.querySelector(".page.learning.subjects .cards-container").style.filter = `blur(${blurAmount})`;
     document.querySelector(".page.learning.subjects .back-btn").style.filter = `blur(${blurAmount})`;
-    document.querySelector(".page.learning.subjects .buttons").style.filter = `blur(${blurAmount})`;
 
     let popup =
         El("div", { cls: "dark" },
@@ -319,7 +314,6 @@ function beforePractice() {
         document.querySelector(".page.learning.subjects .sub-title").style.filter = "unset";
         document.querySelector(".page.learning.subjects .cards-container").style.filter = "unset";
         document.querySelector(".page.learning.subjects .back-btn").style.filter = "unset";
-        document.querySelector(".page.learning.subjects .buttons").style.filter = "unset";
         document.querySelector(".page.learning.subjects .dark").remove();
     });
 
@@ -329,7 +323,6 @@ function beforePractice() {
         document.querySelector(".page.learning.subjects .sub-title").style.filter = "unset";
         document.querySelector(".page.learning.subjects .cards-container").style.filter = "unset";
         document.querySelector(".page.learning.subjects .back-btn").style.filter = "unset";
-        document.querySelector(".page.learning.subjects .buttons").style.filter = "unset";
         document.querySelector(".page.learning.subjects .dark").remove();
         document.querySelector(".page.learning.subjects").classList.remove("active");
         document.querySelector(".page.practice").classList.add("active");
@@ -907,7 +900,6 @@ function beforeExam() {
     document.querySelector(".page.learning.subjects .sub-title").style.filter = `blur(${blurAmount})`;
     document.querySelector(".page.learning.subjects .cards-container").style.filter = `blur(${blurAmount})`;
     document.querySelector(".page.learning.subjects .back-btn").style.filter = `blur(${blurAmount})`;
-    document.querySelector(".page.learning.subjects .buttons").style.filter = `blur(${blurAmount})`;
 
     examTime();
 
@@ -925,7 +917,6 @@ function beforeExam() {
                             document.querySelector(".page.learning.subjects .sub-title").style.filter = "unset";
                             document.querySelector(".page.learning.subjects .cards-container").style.filter = "unset";
                             document.querySelector(".page.learning.subjects .back-btn").style.filter = "unset";
-                            document.querySelector(".page.learning.subjects .buttons").style.filter = "unset";
                             document.querySelector(".page.learning.subjects .dark").remove();
                         }
                     }
@@ -997,7 +988,6 @@ function beforeExam() {
                             document.querySelector(".page.learning.subjects .sub-title").style.filter = "unset";
                             document.querySelector(".page.learning.subjects .cards-container").style.filter = "unset";
                             document.querySelector(".page.learning.subjects .back-btn").style.filter = "unset";
-                            document.querySelector(".page.learning.subjects .buttons").style.filter = "unset";
                             document.querySelector(".page.learning.subjects .dark").remove();
                             document.querySelector(".page.learning.subjects").classList.remove("active");
                             document.querySelector(".page.exam").classList.add("active");

@@ -17,9 +17,9 @@ const TIME_FOR_EXAM = "7:00";
 
 // אובייקט המכיל את כל המידע של הלומדה הכולל את התוכן, השאלות לכל נושא וכמות השאלות שיילקח מכל נושא למבחן
 const DATA = { 
-    // שם נושא
-    "הכנס שם של נושא": {
-        "icon":  "../assets/images/learning/Artboard 4.svg", // הכנס קישור של אייקון
+    // נושא
+    'בה"ד 6': {
+        "icon":  "../assets/images/icons/bhd6.png",
         // שאלות לנושא הזה
         "questions": [
             {
@@ -179,9 +179,9 @@ const DATA = {
             }
         },
     },
-    // שם נושא
-    "2שם של נושא": {
-        "icon":  "../assets/images/learning/Artboard 4.svg",
+    // נושא
+    'בה"ד 7': {
+        "icon":  "../assets/images/icons/bhd7.png",
         // שאלות לנושא הזה
         "questions": [
             {
@@ -278,9 +278,9 @@ const DATA = {
         },
         
     },
-    // שם נושא
-    "3שם של נושא": {
-        "icon":  "../assets/images/learning/Artboard 4.svg",
+    // נושא
+    'בה"ד 10': {
+        "icon":  "../assets/images/icons/bhd10.png",
         // שאלות לנושא הזה
         "questions": [
             {
@@ -334,8 +334,9 @@ const DATA = {
         },
         "amountOfQuestions": 0
     },
-    "4שם של נושא": {
-        "icon":  "../assets/images/learning/Artboard 4.svg",
+    // נושא
+    'בה"ד 11': {
+        "icon":  "../assets/images/icons/bhd11.png",
         // שאלות לנושא הזה
         "questions": [
             {
@@ -389,8 +390,9 @@ const DATA = {
         },
         "amountOfQuestions": 0
     },
-    "5שם של נושא": {
-        "icon":  "../assets/images/learning/Artboard 4.svg",
+    // נושא
+    'בה"ד חינוך': {
+        "icon":  "../assets/images/icons/bhdHinuch.png",
         // שאלות לנושא הזה
         "questions": [
             {
@@ -443,7 +445,175 @@ const DATA = {
             }
         },
         "amountOfQuestions": 0
-    }
+    },
+    // נושא
+    'בה"ד 13': {
+        "icon":  "../assets/images/icons/bhd13.png",
+        // שאלות לנושא הזה
+        "questions": [
+            {
+                type: "multiple",
+                question: "שאלהה שאלתית ששואלת מלא שאלות",
+                ans1: "תשובה כלשהית  נכונה",
+                ans2: "תשובה לא נכונה",
+                ans3: "תשובה לא נכונה מאוד",
+                ans4: "אל תלחצו! זה טעות",
+                correctAns: "ans1"
+            },
+            {
+                type: "binary",
+                sentence: "עוד שאלה לא נכונה על חתולים",
+                trueOrFalse: false
+            },
+            {
+                type: "multiple",
+                question: "שאלה על מכוניות",
+                ans1: "תשובה כלשהית לא נכונה",
+                ans2: "תשובה בכלל לא נכונה",
+                ans3: "תשובה לא נכונה מאוד",
+                ans4: "תלחצו עליי אני תשובה נכונה",
+                correctAns: "ans4"
+            },
+            {
+                type: "multiple",
+                question: "שאלה שאלתית על מכוניות וזה משפט ארוך",
+                ans1: "תשובה כלשהית לא נכונה",
+                ans2: "תשובה בכלל לא נכונה",
+                ans3: "תשובה לא נכונה תשובה ממש נכונה!",
+                ans4: "אל תלחצו עליי אני תשובה לא נכונה",
+                correctAns: "ans3"
+            },
+            {
+                type: "binary",
+                sentence: "עוד שאלה על מכוניות שנוסעות ממש ממש מהר והיא לא נכונה בכלל",
+                trueOrFalse: false
+            },
+            {
+                type: "binary",
+                sentence: "היי זאת תשובה לא נכונה",
+                trueOrFalse: false
+            }
+        ],
+        "learningContent": {
+            // סוג הכרטיסייה
+            "textAndPic": {
+
+            }
+        },
+        "amountOfQuestions": 0
+    },
+    // נושא
+    'בה"ד 20': {
+        "icon":  "../assets/images/icons/bhd20.png",
+        // שאלות לנושא הזה
+        "questions": [
+            {
+                type: "multiple",
+                question: "שאלהה שאלתית ששואלת מלא שאלות",
+                ans1: "תשובה כלשהית  נכונה",
+                ans2: "תשובה לא נכונה",
+                ans3: "תשובה לא נכונה מאוד",
+                ans4: "אל תלחצו! זה טעות",
+                correctAns: "ans1"
+            },
+            {
+                type: "binary",
+                sentence: "עוד שאלה לא נכונה על חתולים",
+                trueOrFalse: false
+            },
+            {
+                type: "multiple",
+                question: "שאלה על מכוניות",
+                ans1: "תשובה כלשהית לא נכונה",
+                ans2: "תשובה בכלל לא נכונה",
+                ans3: "תשובה לא נכונה מאוד",
+                ans4: "תלחצו עליי אני תשובה נכונה",
+                correctAns: "ans4"
+            },
+            {
+                type: "multiple",
+                question: "שאלה שאלתית על מכוניות וזה משפט ארוך",
+                ans1: "תשובה כלשהית לא נכונה",
+                ans2: "תשובה בכלל לא נכונה",
+                ans3: "תשובה לא נכונה תשובה ממש נכונה!",
+                ans4: "אל תלחצו עליי אני תשובה לא נכונה",
+                correctAns: "ans3"
+            },
+            {
+                type: "binary",
+                sentence: "עוד שאלה על מכוניות שנוסעות ממש ממש מהר והיא לא נכונה בכלל",
+                trueOrFalse: false
+            },
+            {
+                type: "binary",
+                sentence: "היי זאת תשובה לא נכונה",
+                trueOrFalse: false
+            }
+        ],
+        "learningContent": {
+            // סוג הכרטיסייה
+            "textAndPic": {
+
+            }
+        },
+        "amountOfQuestions": 0
+    },
+    // נושא
+    'מפקדות': {
+        "icon":  "../assets/images/icons/Hadraha.png",
+        // שאלות לנושא הזה
+        "questions": [
+            {
+                type: "multiple",
+                question: "שאלהה שאלתית ששואלת מלא שאלות",
+                ans1: "תשובה כלשהית  נכונה",
+                ans2: "תשובה לא נכונה",
+                ans3: "תשובה לא נכונה מאוד",
+                ans4: "אל תלחצו! זה טעות",
+                correctAns: "ans1"
+            },
+            {
+                type: "binary",
+                sentence: "עוד שאלה לא נכונה על חתולים",
+                trueOrFalse: false
+            },
+            {
+                type: "multiple",
+                question: "שאלה על מכוניות",
+                ans1: "תשובה כלשהית לא נכונה",
+                ans2: "תשובה בכלל לא נכונה",
+                ans3: "תשובה לא נכונה מאוד",
+                ans4: "תלחצו עליי אני תשובה נכונה",
+                correctAns: "ans4"
+            },
+            {
+                type: "multiple",
+                question: "שאלה שאלתית על מכוניות וזה משפט ארוך",
+                ans1: "תשובה כלשהית לא נכונה",
+                ans2: "תשובה בכלל לא נכונה",
+                ans3: "תשובה לא נכונה תשובה ממש נכונה!",
+                ans4: "אל תלחצו עליי אני תשובה לא נכונה",
+                correctAns: "ans3"
+            },
+            {
+                type: "binary",
+                sentence: "עוד שאלה על מכוניות שנוסעות ממש ממש מהר והיא לא נכונה בכלל",
+                trueOrFalse: false
+            },
+            {
+                type: "binary",
+                sentence: "היי זאת תשובה לא נכונה",
+                trueOrFalse: false
+            }
+        ],
+        "learningContent": {
+            // סוג הכרטיסייה
+            "textAndPic": {
+
+            }
+        },
+        "amountOfQuestions": 0
+    },
 };
 
 
