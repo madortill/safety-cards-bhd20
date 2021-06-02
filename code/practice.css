@@ -85,7 +85,7 @@
 
 .page.practice .answer-container {
   display: flex;
-  margin-top: 2vh;
+  margin-top: 0.8vh;
   align-items: center;
 }
 
@@ -132,7 +132,7 @@
   height: 4vmax;
   direction: ltr;
   position: relative;
-  bottom: 8vmax;
+  bottom: 7vmax;
   right: 3vmax;
   width: 36vmax;
   align-items: center;
