@@ -729,9 +729,49 @@ const DATA = {
             },
         ],
         "learningContent": {
-            // סוג הכרטיסייה
-            "textAndPic": {
-
+            'בטיחות בדרכים': {
+                "חסר שקופית 8": [ 
+                    {
+                        cardType: "video",
+                        video: "../assets/images/videos&photos/vid1.mp4"
+                    },
+                ],
+                "חסר שקופית 9": [ 
+                    {
+                        cardType: "video",
+                        video: "../assets/images/videos&photos/vid2.mp4"
+                    },
+                ],
+                "חסר שקופית 10": [ 
+                    {
+                        cardType: "video",
+                        video: "../assets/images/videos&photos/vid3.mp4"
+                    },
+                ]
+            },
+            "בטיחות באש": {
+                "חסר שקופית 12": [
+                    {
+                        cardType: "video",
+                        video: "../assets/images/videos&photos/vid4.mp4",
+                    }
+                ]
+            },
+            "הגנת הסביבה": {
+                "חסר שקופית 14": [
+                    {
+                        cardType: "video",
+                        video: "../assets/images/videos&photos/vid5.mp4",
+                    }
+                ]
+            },
+            "בטיחות בחשמל": {       
+                "חסר שקופית 18": [
+                    {
+                        cardType: "video",
+                        video: "../assets/images/videos&photos/vid7.mp4",
+                    }
+                ]
             }
         },
         "amountOfQuestions": 0
