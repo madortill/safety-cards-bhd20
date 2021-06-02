@@ -111,7 +111,6 @@
   background-image: url("../assets/images/practice/beforePractice_popup/beforePractice_popup.svg");
   display: flex;
   flex-direction: column;
-  /* justify-content: space-between; */
   align-items: center;
   user-select: none;
 }
@@ -273,12 +272,6 @@
 .page.learning.content .sub-topics-container.open {
   max-height: 100vh;
 }
-/* 
-.page.learning.content .container-subjects::before {
-  display: block;
-  content: "";
-  padding-left: 50vw;
-} */
 
 .page.learning.content .container-subjects .space {
   display: block;
@@ -432,7 +425,6 @@
   visibility: hidden;
   pointer-events: none;
 }
-/* transform: translateX(-140%); */
 
 .page.learning.content .next-back-btn.last .next {
   visibility: hidden;

@@ -10,10 +10,8 @@
 
 .page.opening {
   transition: 1s ease-in-out height;
-  /* overflow-x: hidden; */
   overflow: hidden;
   position: static;
-  /* margin-top: 8vw; */
 }
 
 .page.opening .expand {

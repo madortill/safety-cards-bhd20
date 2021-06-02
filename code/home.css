@@ -22,7 +22,6 @@
 
 .page.home .books {
     display: none;
-    /* margin-top: 10vw; */
     height: 16em;
     min-height: 13em;
     animation: show 2s ease;
