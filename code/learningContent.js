@@ -174,19 +174,19 @@ const DATA = {
         ],
         "learningContent": {
             'בטיחות בדרכים': {
-                "חסר שקופית 8": [ 
+                "1) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid1.mp4"
                     },
                 ],
-                "חסר שקופית 9": [ 
+                "2) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid2.mp4"
                     },
                 ],
-                "חסר שקופית 10": [ 
+                "3) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid3.mp4"
@@ -379,19 +379,19 @@ const DATA = {
         ],
         "learningContent": {
             'בטיחות בדרכים': {
-                "חסר שקופית 8": [ 
+                "1) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid1.mp4"
                     },
                 ],
-                "חסר שקופית 9": [ 
+                "2) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid2.mp4"
                     },
                 ],
-                "חסר שקופית 10": [ 
+                "3) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid3.mp4"
@@ -423,7 +423,7 @@ const DATA = {
                 ]
             },
             "גובה": {       
-                "חסר שקופית 35": [
+                "גובה": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid8.mp4",
@@ -557,19 +557,19 @@ const DATA = {
         ],
         "learningContent": {
             'בטיחות בדרכים': {
-                "חסר שקופית 8": [ 
+                "1) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid1.mp4"
                     },
                 ],
-                "חסר שקופית 9": [ 
+                "2) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid2.mp4"
                     },
                 ],
-                "חסר שקופית 10": [ 
+                "3) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid3.mp4"
@@ -727,19 +727,19 @@ const DATA = {
         ],
         "learningContent": {
             'בטיחות בדרכים': {
-                "חסר שקופית 8": [ 
+                "1) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid1.mp4"
                     },
                 ],
-                "חסר שקופית 9": [ 
+                "2) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid2.mp4"
                     },
                 ],
-                "חסר שקופית 10": [ 
+                "3) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid3.mp4"
@@ -897,19 +897,19 @@ const DATA = {
         ],
         "learningContent": {
             'בטיחות בדרכים': {
-                "חסר שקופית 8": [ 
+                "1) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid1.mp4"
                     },
                 ],
-                "חסר שקופית 9": [ 
+                "2) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid2.mp4"
                     },
                 ],
-                "חסר שקופית 10": [ 
+                "3) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid3.mp4"
@@ -1067,19 +1067,19 @@ const DATA = {
         ],
         "learningContent": {
             'בטיחות בדרכים': {
-                "חסר שקופית 8": [ 
+                "1) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid1.mp4"
                     },
                 ],
-                "חסר שקופית 9": [ 
+                "2) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid2.mp4"
                     },
                 ],
-                "חסר שקופית 10": [ 
+                "3) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid3.mp4"
@@ -1337,19 +1337,19 @@ const DATA = {
         ],
         "learningContent": {
             'בטיחות בדרכים': {
-                "חסר שקופית 8": [ 
+                "1) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid1.mp4"
                     },
                 ],
-                "חסר שקופית 9": [ 
+                "2) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid2.mp4"
                     },
                 ],
-                "חסר שקופית 10": [ 
+                "3) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid3.mp4"
@@ -1381,7 +1381,7 @@ const DATA = {
                 ]
             },
             "בטיחות בסדנאות": {       
-                "חסר שקופית 114": [
+                "בטיחות בסדנאות": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid8.mp4",
@@ -1523,19 +1523,19 @@ const DATA = {
         ],
         "learningContent": {
             'בטיחות בדרכים': {
-                "חסר שקופית 8": [ 
+                "1) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid1.mp4"
                     },
                 ],
-                "חסר שקופית 9": [ 
+                "2) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid2.mp4"
                     },
                 ],
-                "חסר שקופית 10": [ 
+                "3) בטיחות בדרכים ": [ 
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid3.mp4"
