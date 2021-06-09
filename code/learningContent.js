@@ -194,7 +194,7 @@ const DATA = {
                 ]
             },
             "בטיחות באש": {
-                "חסר שקופית 12": [
+                "בטיחות באש": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid4.mp4",
@@ -202,7 +202,7 @@ const DATA = {
                 ]
             },
             "הגנת הסביבה": {
-                "חסר שקופית 14": [
+                "הגנת הסביבה": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid5.mp4",
@@ -210,7 +210,7 @@ const DATA = {
                 ]
             },
             "טלטול והרמה": {
-                "חסר שקופית 16": [
+                "טלטול והרמה": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid6.mp4",
@@ -218,7 +218,7 @@ const DATA = {
                 ]
             },
             "בטיחות בחשמל": {       
-                "חסר שקופית 18": [
+                "בטיחות בחשמל": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid7.mp4",
@@ -399,7 +399,7 @@ const DATA = {
                 ]
             },
             "בטיחות באש": {
-                "חסר שקופית 12": [
+                "בטיחות באש": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid4.mp4",
@@ -407,7 +407,7 @@ const DATA = {
                 ]
             },
             "הגנת הסביבה": {
-                "חסר שקופית 14": [
+                "הגנת הסביבה": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid5.mp4",
@@ -415,7 +415,7 @@ const DATA = {
                 ]
             },
             "בטיחות בחשמל": {       
-                "חסר שקופית 18": [
+                "בטיחות בחשמל": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid7.mp4",
@@ -577,7 +577,7 @@ const DATA = {
                 ]
             },
             "בטיחות באש": {
-                "חסר שקופית 12": [
+                "בטיחות באש": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid4.mp4",
@@ -585,7 +585,7 @@ const DATA = {
                 ]
             },
             "הגנת הסביבה": {
-                "חסר שקופית 14": [
+                "הגנת הסביבה": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid5.mp4",
@@ -593,7 +593,7 @@ const DATA = {
                 ]
             },
             "בטיחות בחשמל": {       
-                "חסר שקופית 18": [
+                "בטיחות בחשמל": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid7.mp4",
@@ -747,7 +747,7 @@ const DATA = {
                 ]
             },
             "בטיחות באש": {
-                "חסר שקופית 12": [
+                "בטיחות באש": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid4.mp4",
@@ -755,7 +755,7 @@ const DATA = {
                 ]
             },
             "הגנת הסביבה": {
-                "חסר שקופית 14": [
+                "הגנת הסביבה": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid5.mp4",
@@ -763,7 +763,7 @@ const DATA = {
                 ]
             },
             "בטיחות בחשמל": {       
-                "חסר שקופית 18": [
+                "בטיחות בחשמל": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid7.mp4",
@@ -917,7 +917,7 @@ const DATA = {
                 ]
             },
             "בטיחות באש": {
-                "חסר שקופית 12": [
+                "בטיחות באש": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid4.mp4",
@@ -925,7 +925,7 @@ const DATA = {
                 ]
             },
             "הגנת הסביבה": {
-                "חסר שקופית 14": [
+                "הגנת הסביבה": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid5.mp4",
@@ -933,7 +933,7 @@ const DATA = {
                 ]
             },
             "בטיחות בחשמל": {       
-                "חסר שקופית 18": [
+                "בטיחות בחשמל": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid7.mp4",
@@ -1087,7 +1087,7 @@ const DATA = {
                 ]
             },
             "בטיחות באש": {
-                "חסר שקופית 12": [
+                "בטיחות באש": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid4.mp4",
@@ -1095,7 +1095,7 @@ const DATA = {
                 ]
             },
             "הגנת הסביבה": {
-                "חסר שקופית 14": [
+                "הגנת הסביבה": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid5.mp4",
@@ -1103,7 +1103,7 @@ const DATA = {
                 ]
             },
             "בטיחות בחשמל": {       
-                "חסר שקופית 18": [
+                "בטיחות בחשמל": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid7.mp4",
@@ -1357,7 +1357,7 @@ const DATA = {
                 ]
             },
             "בטיחות באש": {
-                "חסר שקופית 12": [
+                "בטיחות באש": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid4.mp4",
@@ -1365,7 +1365,7 @@ const DATA = {
                 ]
             },
             "הגנת הסביבה": {
-                "חסר שקופית 14": [
+                "הגנת הסביבה": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid5.mp4",
@@ -1373,7 +1373,7 @@ const DATA = {
                 ]
             },
             "טלטול והרמה": {
-                "חסר שקופית 16": [
+                "טלטול והרמה": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid6.mp4",
@@ -1389,7 +1389,7 @@ const DATA = {
                 ]
             },
             "בטיחות בחשמל": {       
-                "חסר שקופית 18": [
+                "בטיחות בחשמל": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid7.mp4",
@@ -1543,7 +1543,7 @@ const DATA = {
                 ]
             },
             "בטיחות באש": {
-                "חסר שקופית 12": [
+                "בטיחות באש": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid4.mp4",
@@ -1551,7 +1551,7 @@ const DATA = {
                 ]
             },
             "הגנת הסביבה": {
-                "חסר שקופית 14": [
+                "הגנת הסביבה": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid5.mp4",
@@ -1559,7 +1559,7 @@ const DATA = {
                 ]
             },
             "בטיחות בחשמל": {       
-                "חסר שקופית 18": [
+                "בטיחות בחשמל": [
                     {
                         cardType: "video",
                         video: "../assets/images/videos&photos/vid7.mp4",
