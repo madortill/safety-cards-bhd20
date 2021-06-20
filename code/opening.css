@@ -39,7 +39,7 @@
   cursor: pointer;
   pointer-events: all;
   transition: 1s linear margin-bottom;
-  margin-bottom: 30vh;
+  margin-bottom: 20vh;
 }
 
 .page.opening .container-scrolling_icon {
