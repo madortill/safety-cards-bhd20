@@ -22,7 +22,7 @@
 
 .page.home .books {
     display: none;
-    height: 16em;
+    height: 18em;
     min-height: 13em;
     animation: show 2s ease;
     -webkit-animation: show 2s ease;
@@ -36,7 +36,7 @@
 }
 
 .page.home .scrolling_icon {
-    margin-top: 7vh;
+    margin-top: 10vh;
     height: 6vmax;
     cursor: pointer;
     display: none;
