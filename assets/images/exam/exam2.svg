@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="857.461" height="1107.29" viewBox="0 0 857.461 1107.29">
   <g id="Group_559" data-name="Group 559" transform="translate(2490.614 1165.507)">
-    <rect id="Rectangle_52" data-name="Rectangle 52" width="857.461" height="1077.331" rx="37.326" transform="translate(-2490.614 -1135.548)" fill="#27c5f2" opacity="0.2"/>
+    <rect id="Rectangle_52" data-name="Rectangle 52" width="857.461" height="1077.331" rx="37.326" transform="translate(-2490.614 -1135.548)" fill="#FCB328" opacity="0.2"/>
     <line id="Line_103" data-name="Line 103" x2="8.214" y2="32.815" transform="translate(-2317.035 -1120.707)" fill="none" stroke="#708fa0" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
     <path id="Path_459" data-name="Path 459" d="M-2318.532-1096.451l1.945,7.769a10.123,10.123,0,0,1-7.361,12.277h0a10.122,10.122,0,0,1-12.277-7.361l-1.944-7.768-9.6-38.343" transform="translate(8.655 4.344)" fill="none" stroke="#708fa0" stroke-linecap="round" stroke-miterlimit="10" stroke-width="8"/>
     <rect id="Rectangle_27" data-name="Rectangle 27" width="815.461" height="1025.331" rx="37.326" transform="translate(-2469.614 -1109.548)" fill="#fff"/>
-    <path id="Rectangle_28" data-name="Rectangle 28" d="M37.326,0h7.259a0,0,0,0,1,0,0V1025.331a0,0,0,0,1,0,0H37.326A37.326,37.326,0,0,1,0,988V37.326A37.326,37.326,0,0,1,37.326,0Z" transform="translate(-2469.614 -1109.548)" fill="#1de8f7"/>
+    <path id="Rectangle_28" data-name="Rectangle 28" d="M37.326,0h7.259a0,0,0,0,1,0,0V1025.331a0,0,0,0,1,0,0H37.326A37.326,37.326,0,0,1,0,988V37.326A37.326,37.326,0,0,1,37.326,0Z" transform="translate(-2469.614 -1109.548)" fill="#FDDE2E"/>
     <g id="Group_301" data-name="Group 301" transform="translate(-2425.028 -1021.965)" opacity="0.4">
       <line id="Line_104" data-name="Line 104" x2="770.875" fill="none" stroke="#ef4230" stroke-miterlimit="10" stroke-width="7" opacity="0.1"/>
       <line id="Line_105" data-name="Line 105" x2="770.875" transform="translate(0 79.065)" fill="none" stroke="#26a6e0" stroke-miterlimit="10" stroke-width="7" opacity="0.1"/>
