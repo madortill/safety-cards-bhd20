@@ -34,7 +34,7 @@
 }
 
 .page.opening .scrolling_icon {
-  height: 6vmax;
+  height: 10vmax;
   flex: 1;
   cursor: pointer;
   pointer-events: all;
@@ -67,5 +67,5 @@
 
 .page.opening.scrolled .scrolling_icon {
   margin-bottom: 4vw;
-  max-height: 8vw;
+  max-height: 18vw;
 }
