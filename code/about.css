@@ -50,3 +50,7 @@
 .page.about .container-titles :last-child {
   font-size: 2vmax;
 }
+
+.page.about a {
+  color: rgb(28, 63, 85);
+}

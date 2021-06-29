@@ -225,6 +225,7 @@
   user-select: none;
   -webkit-user-select: none;
   -moz-user-select: none;
+  /* visibility: hidden; */
 }
 
 .page.learning.content .container-subjects::-webkit-scrollbar {
