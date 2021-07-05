@@ -968,7 +968,8 @@ function subjectLearningPage(subject) {
         document.querySelector(".page.learning.content .cards-container").append(...arrCards);
         id++;
     }
-
+    document.querySelector(".page.learning.content .container-subjects").scrollLeft = document.querySelector(".page.learning.content .container-subjects").scrollWidth;
+    
     // הפונקציה גוללת אל הכרטיסייה הנלחצת על ידי החניך 
     function relevantCard(cardTitle) {
         document.querySelectorAll(".page.learning.content .card-group.block").forEach(function (card) {
